@@ -34,11 +34,6 @@
             <version>${vault.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>vvvvvvvvv</groupId>
-            <artifactId>ttaaa</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
     </dependencies>
 
 </project>
